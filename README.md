@@ -2,8 +2,8 @@
 
 ## brief path
 
-- git
 - linux cmds
+- git
 - shell
 - docker
 - a typical database
@@ -24,5 +24,4 @@
 - architectural thinking
 - spec writing
 - design writing
-
 

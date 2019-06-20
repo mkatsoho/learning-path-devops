@@ -21,7 +21,7 @@ This project was named `learning path of devops` originally. Now it is renamed. 
 - unit test, functional test and system test
 - C and CMake
 - frontend: JS, jquery, 
-- frontend framework: vuejs, react.js
+- frontend framework: __vuejs__, __react.js__
 - __functional programming__
 - __Rust__, or __Haskell__
 - agile scrum

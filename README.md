@@ -23,9 +23,14 @@ This project was named `learning path of devops` originally. Now it is renamed. 
 - frontend: JS, jquery, 
 - frontend framework: __vuejs__, __react.js__
 - __functional programming__: __Rust__, or __Haskell__
+
+
 - agile scrum
 - architectural thinking
 - spec writing
 - design writing: __UML__
+
+
+- data visualization: 2D, 3D
 
 

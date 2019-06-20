@@ -1,4 +1,6 @@
-# learning-path-devops
+# learning-path-of-full-stack
+
+This project was named `learning path of devops` originally. Now it is renamed. It is beyond devops and full stack.
 
 ## brief path
 
@@ -18,8 +20,8 @@
 - unit test, functional test and system test
 - C and CMake
 - frontend coding using JS
-- functional programming
-- Rust
+- __functional programming__
+- Rust/Haskell
 - agile scrum
 - architectural thinking
 - spec writing

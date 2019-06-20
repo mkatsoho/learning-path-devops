@@ -7,26 +7,26 @@ This project was named `learning path of devops` originally. Now it is renamed. 
 - Linux cmds
 - git, Gitlab
 - Linux shell
-- docker
-- a typical database
+- __docker__
+- a typical __NoSql database__
 - a typical server with web interface
-- http protocol, REST, html
-- extensive reading: thrift, protobuf, xml(old protocol)
+- Html, Http protocol, and REST
+- extensive reading: json, xml(old protocol), __thrift__, __protobuf__
 - frontend vs backend
 - process supervisor
 - HA or multiple nodes
 - cache, proxy, reverse-proxy
-- backend: nodejs application
-- continuous deployment
+- backend: __nodejs__ application
+- continuous deployment(__CD__)
 - unit test, functional test and system test
 - C and CMake
 - frontend: JS, jquery, 
 - frontend framework: vuejs, react.js
 - __functional programming__
-- Rust/Haskell
+- __Rust__, or __Haskell__
 - agile scrum
 - architectural thinking
 - spec writing
-- design writing
+- design writing: __UML__
 
 
